@@ -1,0 +1,407 @@
+#EXTM3U
+#EXTINF:48,Bloomberg TV Asia (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:0,Bloomberg TV Asia Live Event (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:0, like Gecko) Chrome/91.0.4472.124 Safari/537.36" - CNBC Asia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
+#EXTINF:0,CNBC Indonesia (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:0,CNN Indonesia (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:60,K+ (Indonesian subtitle) (576p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:0,Metro TV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
+#EXTINF:40,My Cinema (1080p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:0,My Cinema Asia (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:0,NET. [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
+#EXTINF:0,RCTV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
+#EXTINF:0,RRI Net (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rrinet.rri.co.id/hls/live.m3u8
+#EXTINF:0,Trans7 (720p)
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:0,Trans TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:60,tvN Movies (Indonesian Subtitle) (576p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:0,TVR Parlemen (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:0,TVRI Aceh (720p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+#EXTINF:0,TVRI Bali (480p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+#EXTINF:0,TVRI Bangka Belitung (480p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+#EXTINF:0,TVRI Bengkulu (480p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+#EXTINF:0,TVRI DKI Jakarta (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+#EXTINF:0,TVRI Gorontalo (480p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+#EXTINF:0,TVRI Jambi (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+#EXTINF:0,TVRI Jawa Barat (480p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+#EXTINF:0,TVRI Jawa Tengah (720p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+#EXTINF:0,TVRI Jawa Timur (720p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+#EXTINF:0,TVRI Kalimantan Barat (480p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+#EXTINF:0,TVRI Kalimantan Selatan (720p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+#EXTINF:0,TVRI Kalimantan Tengah (480p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+#EXTINF:0,TVRI Kalimantan Timur (720p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+#EXTINF:0,TVRI Lampung (720p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+#EXTINF:0,TVRI Maluku (480p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+#EXTINF:0,TVRI Nasional (720p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:0,TVRI Nusa Tenggara Barat (720p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+#EXTINF:0,TVRI Nusa Tenggara Timur (480p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+#EXTINF:0,TVRI Papua (480p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+#EXTINF:0,TVRI Riau (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
+#EXTINF:0,TVRI Sport (720p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:0,TVRI Sulawesi Barat (720p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
+#EXTINF:0,TVRI Sulawesi Selatan (480p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+#EXTINF:0,TVRI Sulawesi Tengah (720p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+#EXTINF:0,TVRI Sulawesi Tenggara (480p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+#EXTINF:0,TVRI Sumatera Barat (720p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+#EXTINF:0,TVRI Sumatera Selatan (480p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+#EXTINF:0,TVRI World (720p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:0,TVRI Yogyakarta (720p)
+#EXTVLCOPT:network-caching=1000
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+#EXTINF:0,Arirang TV (1080p)
+#EXTVLCOPT:network-caching=1000
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:20,KBS1 (720p)
+#EXTVLCOPT:network-caching=1000
+https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
+#EXTINF:0,KBS1 (Busan) (720p)
+#EXTVLCOPT:network-caching=1000
+https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
+#EXTINF:0,KBS1 (Daegu) (720p)
+#EXTVLCOPT:network-caching=1000
+https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8
+#EXTINF:0,KBS1 (Daejeon) (720p)
+#EXTVLCOPT:network-caching=1000
+https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
+#EXTINF:0,KBS1 (Gwangju) (720p)
+#EXTVLCOPT:network-caching=1000
+https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
+#EXTINF:0,KBS1 (Ulsan) (720p)
+#EXTVLCOPT:network-caching=1000
+https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
+#EXTINF:0,KBS 1 UHD (720p)
+#EXTVLCOPT:network-caching=1000
+http://202.60.106.14:8080/200/playlist.m3u8
+#EXTINF:0,KBS2 (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
+#EXTINF:20,KBS Drama (480p)
+#EXTVLCOPT:network-caching=1000
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:20,KBS Joy (480p)
+#EXTVLCOPT:network-caching=1000
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:0,KBS Life (480p)
+#EXTVLCOPT:network-caching=1000
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:0,KBS LiveCam DokDo (540p)
+#EXTVLCOPT:network-caching=1000
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:0,KBS News D (720p)
+#EXTVLCOPT:network-caching=1000
+https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+#EXTINF:0,KBS Story (480p)
+#EXTVLCOPT:network-caching=1000
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:0,MBC Andong (#EXTVLCOPT:network-caching=1000
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+#EXTINF:0,MBC Busan (#EXTVLCOPT:network-caching=1000
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#EXTINF:0,MBC Chuncheon (#EXTVLCOPT:network-caching=1000
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:0,MBC Chungbuk (MBC #EXTVLCOPT:network-caching=1000
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:0,MBC Daegu (#EXTVLCOPT:network-caching=1000
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:0,MBC Daejeon (#EXTVLCOPT:network-caching=1000
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:0,MBC Drama (480p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+http://mytv.dothome.co.kr/ch/catv/26.php
+#EXTINF:0,MBC Every1 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
+#EXTINF:0,MBC Gangwon (MBC #EXTVLCOPT:network-caching=1000
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:0,MBC Gwangju (#EXTVLCOPT:network-caching=1000
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+#EXTINF:0,MBC Gyeongnam (#EXTVLCOPT:network-caching=1000
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:0,MBC Jeju (#EXTVLCOPT:network-caching=1000
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:0,MBC Mokpo (#EXTVLCOPT:network-caching=1000
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:0,MBC Net (480p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+http://mytv.dothome.co.kr/ch/catv/28.php
+#EXTINF:0,MBC Yeosu (#EXTVLCOPT:network-caching=1000
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:0,SBS CJB (540p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:0,SBS G1 (360p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:0,SBS JIBS (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:0,SBS JTV (406p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:0,SBS KBC (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:0,SBS KNN (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:0,SBS News (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
+#EXTINF:0,SBS TBC (540p) [Geo-blocked] [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
+#EXTINF:0,SBS TJB (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:0,SBS UBC (540p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+#EXTINF:0,SEN TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC3p-0EWA8OXko2EUDUXAy5w.m3u8
+#EXTINF:60,tvN Asia (Indonesian Subtitle) (576p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+#EXTINF:62,ABN China (720p)
+#EXTVLCOPT:network-caching=1000
+https://rtmp2.abnvideos.com/hls/abnchina.m3u8
+#EXTINF:0,Angel TV Chinese (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
+#EXTINF:0,BesTV#EXTVLCOPT:network-caching=1000
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
+#EXTINF:0,CCTV5+
+#EXTVLCOPT:network-caching=1000
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv
+#EXTINF:40,CCTV+ 1 (600p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:0,CCTV+ 2 (600p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:0,CCTV-1 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:0,CCTV-2 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:0,CCTV-3#EXTVLCOPT:network-caching=1000
+http://183.196.25.171:808/hls/75/index.m3u8
+#EXTINF:0,CCTV-4 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:0,CCTV-4 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:0,CCTV-4K#EXTVLCOPT:network-caching=1000
+https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+#EXTINF:0,CCTV-5 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:0,CCTV-6#EXTVLCOPT:network-caching=1000
+http://1.85.0.62:808/hls/6/index.m3u8
+#EXTINF:0,CCTV-7 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:0,CCTV-8 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:0,CCTV-9 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:0,CCTV-10 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:0,CCTV-11#EXTVLCOPT:network-caching=1000
+http://183.196.25.171:808/hls/11/index.m3u8
+#EXTINF:0,CCTV-12#EXTVLCOPT:network-caching=1000
+http://183.196.25.171:808/hls/12/index.m3u8
+#EXTINF:0,CCTV-13 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:0,CCTV-14 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:0,CCTV-15#EXTVLCOPT:network-caching=1000
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:0,CCTV-16#EXTVLCOPT:network-caching=1000
+https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+#EXTINF:0,CCTV-17#EXTVLCOPT:network-caching=1000
+http://183.196.25.171:808/hls/93/index.m3u8
+#EXTINF:0,CETV1 (576p)
+#EXTVLCOPT:network-caching=1000
+http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1
+#EXTINF:0,CETV2 (576p)
+#EXTVLCOPT:network-caching=1000
+http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2
+#EXTINF:32,ABC News (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:60,Al Jazeera English
+#EXTVLCOPT:network-caching=1000
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:0,Arirang TV UN (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:0,CNC#EXTVLCOPT:network-caching=1000
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:0,DW English (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:60,FUEL TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+#EXTINF:0,Gusto TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+#EXTINF:0,Insight TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:36,MavTV Select (720p)
+#EXTVLCOPT:network-caching=1000
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,NHK World Premium (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+#EXTINF:0,NTN24 (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCEJs1fTF3KszRJGxJY14VrA.m3u8
+#EXTINF:0,Red Bull TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0,RT News (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
+#EXTINF:0,RTP Internacional (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:0,SCBC Television (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.scbcmedia.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
+#EXTINF:0,Ski TV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+#EXTINF:0,Sofy TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8
+#EXTINF:0,Superyacht TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://sy.wns.live/hls/stream.m3u8
+#EXTINF:0,Three Angels Broadcasting Network International (3ABN) (720p)
+#EXTVLCOPT:network-caching=1000
+https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
+#EXTINF:0,TRT World (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:0,TVM Internacional (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:0,UN Web TV (540p)
+#EXTVLCOPT:network-caching=1000
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:0,WION (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:0,World Fashion Channel International (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live-3.otcnet.ru/wfcenmulti/playlist.m3u8
+#EXTINF:0,World Poker Tour
+#EXTVLCOPT:network-caching=1000
+https://world-poker-tour-samsung-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,YTN Korean (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCizGMtU0Lt-O9X0tLJzyZ2Q.m3u8
+#EXTINF:0,Zoo Moo (Australia) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
