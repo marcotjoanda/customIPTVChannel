@@ -1,0 +1,238 @@
+#EXTM3U
+#EXTINF:0,ABC News
+#EXTVLCOPT:network-caching=1000
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:0,CBC News
+#EXTVLCOPT:network-caching=1000
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:0,CTV News
+#EXTVLCOPT:network-caching=1000
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:0,NHK World-Japan
+#EXTVLCOPT:network-caching=1000
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:0,KBS 1TV
+#EXTVLCOPT:network-caching=1000
+http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+#EXTINF:0,KBS 2TV
+#EXTVLCOPT:network-caching=1000
+http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+#EXTINF:0,KBS News D
+#EXTVLCOPT:network-caching=1000
+http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+#EXTINF:0,EBS 1 #EXTVLCOPT:network-caching=1000
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:0,EBS 2 #EXTVLCOPT:network-caching=1000
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:0,MBC TV
+#EXTVLCOPT:network-caching=1000
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:0,SBS TV
+#EXTVLCOPT:network-caching=1000
+https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
+#EXTINF:0,KNN TV
+#EXTVLCOPT:network-caching=1000
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+#EXTINF:0,KBC TV
+#EXTVLCOPT:network-caching=1000
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:0,TJB TV
+#EXTVLCOPT:network-caching=1000
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:0,UBC TV
+#EXTVLCOPT:network-caching=1000
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+#EXTINF:0,JTV TV
+#EXTVLCOPT:network-caching=1000
+https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
+#EXTINF:0,CJB TV
+#EXTVLCOPT:network-caching=1000
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:0,JIBS TV
+#EXTVLCOPT:network-caching=1000
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:0,OBS TV
+#EXTVLCOPT:network-caching=1000
+https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
+#EXTINF:0,Arirang
+#EXTVLCOPT:network-caching=1000
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0,EBS Kids #EXTVLCOPT:network-caching=1000
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:0,EBS Plus 1 #EXTVLCOPT:network-caching=1000
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:0,EBS Plus 2 #EXTVLCOPT:network-caching=1000
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:0,EBS English #EXTVLCOPT:network-caching=1000
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:0,KBS Drama
+#EXTVLCOPT:network-caching=1000
+http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+#EXTINF:0,KBS Joy
+#EXTVLCOPT:network-caching=1000
+http://ye23.vip/z7z8/2021/kbs2020.php?id=6
+#EXTINF:0,KBS World
+#EXTVLCOPT:network-caching=1000
+http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+#EXTINF:0,KBS Korea #EXTVLCOPT:network-caching=1000
+https://www.youtube.com/c/kbsworldtv/live
+#EXTINF:0,All the K-Pop #EXTVLCOPT:network-caching=1000
+https://www.youtube.com/c/ALLTHEKPOP/live
+#EXTINF:0,Food Network UK #EXTVLCOPT:network-caching=1000
+http://92.114.85.79:8000/play/a0ci
+#EXTINF:0,BBC World News #EXTVLCOPT:network-caching=1000
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:0,BBC World Service
+#EXTVLCOPT:network-caching=1000
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
+#EXTINF:0,CNN
+#EXTVLCOPT:network-caching=1000
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0,CNBC #EXTVLCOPT:network-caching=1000
+https://www.youtube.com/c/CNBC/live
+#EXTINF:0,Bloomberg
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:0,ABC News
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0,CBS News
+#EXTVLCOPT:network-caching=1000
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:0,NBC News
+#EXTVLCOPT:network-caching=1000
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:0,Reuters TV
+#EXTVLCOPT:network-caching=1000
+https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,BBC Food
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,BBC Home
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,Al Jazeera Documentary #EXTVLCOPT:network-caching=1000
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:0,DW
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0,Al Jazeera
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0,CGTN
+#EXTVLCOPT:network-caching=1000
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:0,BBC News
+#EXTVLCOPT:network-caching=1000
+http://92.114.85.81:8000/play/a00a/index.m3u8
+#EXTINF:0,NBC News NOW
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+#EXTINF:0,Reuters
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBBA33000219V.m3u8
+#EXTINF:0,The Guardian
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
+#EXTINF:0,CBS News
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8
+#EXTINF:0,ABC News Live
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
+#EXTINF:0,LiveNOW from FOX
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
+#EXTINF:0,CBC News Network
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:0,Channel News Asia
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
+#EXTINF:0,ABC News (AU)
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
+#EXTINF:0,NDTV 24x7
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
+#EXTINF:0,TRT World
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
+#EXTINF:0,NHK World Japan
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
+#EXTINF:0,WION
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8
+#EXTINF:0,Taiwan+
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
+#EXTINF:0,Metro Globe Network
+#EXTVLCOPT:network-caching=1000
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:0,i24 News
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:0,Scripps News
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:0,USA Today
+#EXTVLCOPT:network-caching=1000
+https://lnc-usa-today.tubi.video/playlist.m3u8
+#EXTINF:0,Cheddar News
+#EXTVLCOPT:network-caching=1000
+https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Bloomberg TV+
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:0,CNBC HD
+#EXTVLCOPT:network-caching=1000
+http://92.114.85.77:8000/play/a0b6
+#EXTINF:0,BBC Drama
+#EXTVLCOPT:network-caching=1000
+https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Top Gear #EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c109a4798def0008a6e03e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,Pimp My Ride #EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4eaf77279a0007f14861/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,South Park #EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62bc1f502b70e3000706298e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,Bloomberg TV Asia (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:0,Bloomberg TV Asia Live Event (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:0,CCTV-4 Asia (480p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:27,CNBC Indonesia (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:0,IDX Channel (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
+#EXTINF:0,K+ (Indonesian subtitle) (576p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:0,Kompas TV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
+#EXTINF:0,Metro TV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
+#EXTINF:0,NET. [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
+#EXTINF:0,RCTV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
+#EXTINF:0,Trans7 (720p)
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:0,Trans TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:0,tvN Movies (Indonesian Subtitle) (576p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h21/index.m3u8
