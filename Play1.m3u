@@ -1,14 +1,184 @@
 #EXTM3U
+#EXTINF:0,CCTV-1 #EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:0,CCTV-2 #EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:30,LIVE NOW - index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707299122/ei/0vzCZe65B_K24t4Pupm24AI/ip/2001%3A448a%3A702e%3A17fb%3A2941%3Ac20%3Ac219%3A23d4/id/bEZYrBMYNNg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0X7d1X7eC-oe1OeMz1lVb2rdlRyDfK1ve6HHAIYK1M/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKHPjToQ45FHfaTUPI9DOOr4a9Yvr7yxExVM2VqQDvCkAiEA75eFcan_nSS_LDAzmRuy8a_Nu6NDtUoHyCUfvI6GG7U%3D/file/index.m3u8
+#EXTINF:54,CCTV-4N
+#EXTVLCOPT:network-caching=1000
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:0,CCTV-5 #EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:0,CCTV-5+ #EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:0,CCTV-7 #EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+#EXTINF:0,CCTV-8 #EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:0,CCTV-9 #EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:0,CCTV-10 #EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+#EXTINF:0,CCTV-13 #EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:0,CCTV-17 #EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
+#EXTINF:0,CETV-1
+#EXTVLCOPT:network-caching=1000
+http://txycsbl.centv.cn/zb/0628cetv1.m3u8
+#EXTINF:0,CETV-2
+#EXTVLCOPT:network-caching=1000
+http://txycsbl.centv.cn/zb/0822cetv2.m3u8
+#EXTINF:0,CETV-3
+#EXTVLCOPT:network-caching=1000
+http://txycsbl.centv.cn/zb/0822cetv3.m3u8
+#EXTINF:0,CETV-4
+#EXTVLCOPT:network-caching=1000
+http://txycsbl.centv.cn/zb/0822cetv4.m3u8
+#EXTINF:0,TV BRICS Chinese
+#EXTVLCOPT:network-caching=1000
+https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:0,NHK General TV #EXTVLCOPT:network-caching=1000
+https://nhk3.mov3.co/hls/nhk.m3u8
+#EXTINF:0,NHK World-Japan
+#EXTVLCOPT:network-caching=1000
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:0,Animax
+#EXTVLCOPT:network-caching=1000
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+#EXTINF:0,Disney Channel Japan
+#EXTVLCOPT:network-caching=1000
+http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
+#EXTINF:0,KBS 1TV
+#EXTVLCOPT:network-caching=1000
+http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+#EXTINF:0,KBS 2TV
+#EXTVLCOPT:network-caching=1000
+http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+#EXTINF:0,KBS News D
+#EXTVLCOPT:network-caching=1000
+http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+#EXTINF:0,EBS 1 #EXTVLCOPT:network-caching=1000
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:0,EBS 2 #EXTVLCOPT:network-caching=1000
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:0,MBC TV
+#EXTVLCOPT:network-caching=1000
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:0,SBS TV
+#EXTVLCOPT:network-caching=1000
+https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
+#EXTINF:0,Arirang
+#EXTVLCOPT:network-caching=1000
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0,KBS Drama
+#EXTVLCOPT:network-caching=1000
+http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+#EXTINF:0,KBS Joy
+#EXTVLCOPT:network-caching=1000
+http://ye23.vip/z7z8/2021/kbs2020.php?id=6
+#EXTINF:0,KBS Kids
+#EXTVLCOPT:network-caching=1000
+http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+#EXTINF:0,KBS Life
+#EXTVLCOPT:network-caching=1000
+http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+#EXTINF:0,KBS Story
+#EXTVLCOPT:network-caching=1000
+http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+#EXTINF:0,KBS World
+#EXTVLCOPT:network-caching=1000
+http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+#EXTINF:0,KBS Korea #EXTVLCOPT:network-caching=1000
+https://www.youtube.com/c/kbsworldtv/live
+#EXTINF:0,All the K-Pop #EXTVLCOPT:network-caching=1000
+https://www.youtube.com/c/ALLTHEKPOP/live
+#EXTINF:0,CNN
+#EXTVLCOPT:network-caching=1000
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:30,CNBC - LIVE: CNBC Marathon - Documentaries and deep dives 24/7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707299338/ei/qv3CZYyTLYes3LUPqq-X4AI/ip/2001%3A448a%3A702e%3A17fb%3A2941%3Ac20%3Ac219%3A23d4/id/9NyxcX3rhQs.237/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6g4s3E9U-_RYyelLG9nZp_Ggo6m7nC5f9sXFfwMcdM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJlwwraA1YTp7vlPHBVpUEOV9SpO-3779S-01D3iDar9AiEApfAvlW8_VHb_OUcHe-60Lnf7BrVUNzLhefZrX7XZFis%3D/file/index.m3u8
+#EXTINF:0,Bloomberg
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:0,ABC News
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0,CBS News
+#EXTVLCOPT:network-caching=1000
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:0,NBC News
+#EXTVLCOPT:network-caching=1000
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:0,Reuters TV
+#EXTVLCOPT:network-caching=1000
+https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,BBC Food
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,BBC Home
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,Al Jazeera
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0,BBC News #EXTVLCOPT:network-caching=1000
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
+#EXTINF:0,NBC News NOW
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+#EXTINF:0,Reuters
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBBA33000219V.m3u8
+#EXTINF:0,The Guardian
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
+#EXTINF:0,CBS News
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8
+#EXTINF:0,ABC News Live
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
+#EXTINF:0,LiveNOW from FOX
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
+#EXTINF:0,CBC News Network
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:0,Ticker News
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
+#EXTINF:0,India Today
+#EXTVLCOPT:network-caching=1000
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:30,Channel News Asia
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
+#EXTINF:0,ABC News (AU)
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
+#EXTINF:20,NDTV 24x7
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
+#EXTINF:0,TRT World
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
+#EXTINF:0,NHK World Japan
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
+#EXTINF:0,Metro Globe Network
+#EXTVLCOPT:network-caching=1000
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:0,CNN
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
+#EXTINF:0,BBC Drama
+#EXTVLCOPT:network-caching=1000
+https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:48,Bloomberg TV Asia (720p)
 #EXTVLCOPT:network-caching=1000
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:0,Bloomberg TV Asia Live Event (720p)
-#EXTVLCOPT:network-caching=1000
-https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:0, like Gecko) Chrome/91.0.4472.124 Safari/537.36" - CNBC Asia (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 #EXTINF:0,CNBC Indonesia (720p)
 #EXTVLCOPT:network-caching=1000
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
@@ -260,70 +430,6 @@ https://rtmp2.abnvideos.com/hls/abnchina.m3u8
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
 #EXTINF:0,BesTV#EXTVLCOPT:network-caching=1000
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
-#EXTINF:0,CCTV5+
-#EXTVLCOPT:network-caching=1000
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv
-#EXTINF:40,CCTV+ 1 (600p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:0,CCTV+ 2 (600p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:0,CCTV-1 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-#EXTINF:0,CCTV-2 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-#EXTINF:0,CCTV-3#EXTVLCOPT:network-caching=1000
-http://183.196.25.171:808/hls/75/index.m3u8
-#EXTINF:0,CCTV-4 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-#EXTINF:0,CCTV-4 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-#EXTINF:0,CCTV-4K#EXTVLCOPT:network-caching=1000
-https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
-#EXTINF:0,CCTV-5 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:0,CCTV-6#EXTVLCOPT:network-caching=1000
-http://1.85.0.62:808/hls/6/index.m3u8
-#EXTINF:0,CCTV-7 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-#EXTINF:0,CCTV-8 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-#EXTINF:0,CCTV-9 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-#EXTINF:0,CCTV-10 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-#EXTINF:0,CCTV-11#EXTVLCOPT:network-caching=1000
-http://183.196.25.171:808/hls/11/index.m3u8
-#EXTINF:0,CCTV-12#EXTVLCOPT:network-caching=1000
-http://183.196.25.171:808/hls/12/index.m3u8
-#EXTINF:0,CCTV-13 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-#EXTINF:0,CCTV-14 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-#EXTINF:0,CCTV-15#EXTVLCOPT:network-caching=1000
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:0,CCTV-16#EXTVLCOPT:network-caching=1000
-https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
-#EXTINF:0,CCTV-17#EXTVLCOPT:network-caching=1000
-http://183.196.25.171:808/hls/93/index.m3u8
-#EXTINF:0,CETV1 (576p)
-#EXTVLCOPT:network-caching=1000
-http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1
-#EXTINF:0,CETV2 (576p)
-#EXTVLCOPT:network-caching=1000
-http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2
 #EXTINF:32,ABC News (720p)
 #EXTVLCOPT:network-caching=1000
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
